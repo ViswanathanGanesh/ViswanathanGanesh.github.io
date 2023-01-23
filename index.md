@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Katy Hinkelman
+title: Viswanathan Ganesh
 categories:
  - home
 ---
 <img src="{{ site.baseurl }}/images/profile.jpg" alt="profile"
 	title="Katy Hinkelman" width="200" style="float: right;" />
 
-## Kathryn (Katy) Hinkelman, M.S., E.I.T.
+## Viswanathan Ganesh, M.Sc Sustainable Electric Power Engineering and Electromobility
 Ph.D. Candidate, Architectural Engineering, Pennsylvania State University <br />
 Research Assistant, Sustainable Buildings and Societies Laboratory <br />
-D.O.E. IBUILD Graduate Research Fellow <br />
-P.E.O. International Scholar <br />
+ <br />
+ <br />
 
-**Contact:** khinkelman(at)psu(dot)edu
+**Contact:** viswanathanganesh1999@gmail.com
 
 [**Curriculum Vitae**](KHinkelman_CV.pdf) 
 
