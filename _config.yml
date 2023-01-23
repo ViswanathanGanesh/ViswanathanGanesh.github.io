@@ -24,7 +24,7 @@ footer-links:
   github: ViswanathanGanesh/ViswanathanGanesh.github.io
   instagram:
   linkedin: viswanathanganesh
-  sbs: katy-hinkelman # anything in your profile username that comes after colorado.edu/lab/sbs/  https://sites.psu.edu/sbslab/people/katy-hinkelman/
+  sbs: # katy-hinkelman  anything in your profile username that comes after colorado.edu/lab/sbs/  https://sites.psu.edu/sbslab/people/katy-hinkelman/
   dribbble:
   facebook:
   flickr:
@@ -41,7 +41,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-175378423-1
+google_analytics: #UA-175378423-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
