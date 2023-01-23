@@ -7,7 +7,8 @@ categories:
 <img src="{{ site.baseurl }}/images/profile.jpg" alt="profile"
 	title="Katy Hinkelman" width="200" style="float: right;" />
 
-## Viswanathan Ganesh, M.Sc Sustainable Electric Power Engineering and Electromobility
+## Viswanathan Ganesh <br /> 
+## M.Sc Sustainable Electric Power Engineering and Electromobility <br />
 Ph.D. Candidate, Architectural Engineering, Pennsylvania State University <br />
 Research Assistant, Sustainable Buildings and Societies Laboratory <br />
  <br />
