@@ -7,34 +7,36 @@ permalink: /cv/
 
 ## Education
 
-**University of Colorado Boulder**, expected May 2022  
+**Pennsylvania State University **
 PhD Student, Architectural Engineering  
-Building Systems Engineering, Energy | GPA: 4.0
+Building Systems Engineering, Energy 
 
-**University of California, Berkeley**, May 2015  
-MS in Mechanical Engineering  
-Concentration in Design | GPA: 4.0
+**Chalmers University of Technology, Sweden**, Expected August 2023 
+MSc in Sustainable Electric Power Engineering and Electromobility
+Concentration in Renewable Energy and Power Systems 
 
-**University of Denver**, Jun 2013  
-BS in Mechanical Engineering  
-Summa Cum Laude, Phi Beta Kappa, Departmental Distinction | GPA: 3.97
+**SRM Institute of Science and Technology, India**, Jun 2021  
+BTech in Electrical and Electronics Engineering
 
 ## Publications
 #### Journal Publications
 
-Ye, Yunyang, **Kathryn Hinkelman**, Jian Zhang, Wangda Zuo, and Gang Wang. 2019. 
-[“A Methodology to Create Prototypical Building Energy Models for Existing Buildings: 
-A Case Study on U.S. Religious Worship Buildings.”](https://doi.org/10.1016/j.enbuild.2019.04.037) 
-Energy and Buildings 194: 351–65. 
+**Viswanathan Ganesh**, V. M. Ajay Krishna, S. Senthilmurugan, S. Hemavathi (2023) ["Modeling of Electric Vehicle DC Fast Charger"] In:
+Electric Transportation Systems in Smart Power Grids: Integration, Aggregation, Ancillary Services, and Best Practices (1st ed.). CRC Press. (https://doi.org/10.1201/9781003293989)
 
-Lu, Xing, **Kathryn Hinkelman**, Yangyang Fu, Jing Wang, Wangda Zuo, Qianqian Zhang, 
-and Walid Saad. 2019. [“An Open Source Modeling Framework for Interdependent 
-Energy-Transportation-Communication Infrastructure in Smart and Connected Communities.”](https://doi.org/10.1109/ACCESS.2019.2913630) 
-IEEE Access 7: 55458–76.
+**Viswanathan Ganesh**, Senthilmurugan S, and Aswin A (2023) ["Role of IoT in Integration of Smart Home and Smart Grid"] In:Internet of Things 
+Applications for Sustainable Development ISBN 9781032128986 (https://www.routledge.com/Internet-of-Things-Applications-for-Sustainable-Development/Lal-Qamar-Agarwal-Agarwal-Verma/p/book/9781032128986)
 
-**Van Lieshout, Kathryn G**, Joy G Anderson, Kevin B Shelburne, and Bradley S Davidson. 2014. 
-[“Intensity Rankings of Plyometric Exercises Using Joint Power Absorption.”](https://doi.org/https://doi.org/10.1016/j.clinbiomech.2014.06.015) 
-Clinical Biomechanics 29: 918–22.
+Divya Navamani, A. Lavanya, A. Geetha & **Viswanathan Ganesh** (2022) ["Pathway to investigate and assess the performance of solar ON-Grid plant"], International Journal of Ambient Energy, DOI: 10.1080/01430750.2022.2125439
+
+
+**Ganesh, V.**, Senthilmurugan, S., Ananthanarayanan, R., Srinivasan, S.S., Lakshanasri, N.R.S. (2021). ["Integration Strategies of Renewable Energy Sources in a Conventional Community."] In: Fathi, M., Zio, E., Pardalos, P.M. (eds) Handbook of Smart Energy Systems. Springer, Cham. (https://doi.org/10.1007/978-3-030-72322-4_120-1)
+
+Anuradha, C., Vijayalakshmi, S., **Ganesh, V.**, Ramapraba, P.S. (2022). ["Grid Integration of Wind Energy Using Fuzzy Logic Algorithm"]. In: Fathi, M., Zio, E., Pardalos, P.M. (eds) Handbook of Smart Energy Systems. Springer, Cham. (https://doi.org/10.1007/978-3-030-72322-4_180-1)
+
+Arunmozhi, M., Senthilmurugan, S., **Ganesh, V.** (2021). ["Design and Operational Strategies for Grid-Connected Smart Home"]. In: Fathi, M., Zio, E., Pardalos, P.M. (eds) Handbook of Smart Energy Systems. Springer, Cham. (https://doi.org/10.1007/978-3-030-72322-4_78-1)
+
+
 
 
 #### Peer-Reviewed Conference Publications
@@ -92,7 +94,7 @@ University of Denver), 2013
 
 ## Professional Associations
 
-* ASHRAE: American Society of Heating, Refrigerating and Air-Conditionin
+ * ASHRAE: American Society of Heating, Refrigerating and Air-Conditionin
 Engineers, 2017 – Present
 * ICC: International Code Council, 2018 – Present
 * IBPSA: International Building Performance Simulation Association, 2019 – Present
