@@ -1,4 +1,6 @@
-# Katy's personal website
+# Viswanathan's personal website
+
+# This website was largely adopted and customized from https://github.com/khinkelman/khinkelman.github.io
 
 ## Quick start
 Fork this repo, then rename the repository to **yourgithubusername.github.io**. 
