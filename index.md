@@ -4,8 +4,8 @@ title: Viswanathan Ganesh
 categories:
  - home
 ---
-<img src="{{ site.baseurl }}/images/profile.jpg" alt="profile"
-	title="Katy Hinkelman" width="200" style="float: right;" />
+<img src="{{ site.baseurl }}/images/IMG_20230209_134100.jpg" alt="profile"
+	title="Viswanathan Ganesh" width="200" style="float: right;" />
 
 ## Viswanathan Ganesh <br /> 
 ## M.Sc Sustainable Electric Power Engineering and Electromobility <br />
