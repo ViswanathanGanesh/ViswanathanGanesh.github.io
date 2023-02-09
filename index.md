@@ -4,7 +4,7 @@ title: Viswanathan Ganesh
 categories:
  - home
 ---
-<img src="{{ site.baseurl }}/images/IMG_20230209_134100.jpg" alt="profile"
+<img src="images/IMG_20230209_134100 copy.jpg" alt="profile"
 	title="Viswanathan Ganesh" width="200" style="float: right;" />
 
 ## Viswanathan Ganesh <br /> 
