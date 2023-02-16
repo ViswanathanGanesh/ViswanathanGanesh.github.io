@@ -23,8 +23,10 @@ Research Assistant, Sustainable Buildings and Societies Laboratory <br />
 ### Background
 
 
-Viswanathan received a B.Tech degree in Electrical and Electronics Engineering from the SRM Institute of Science and Technology, Kattankulathur in 2021,
+<p style="text-align:justify">
+	Viswanathan received a B.Tech degree in Electrical and Electronics Engineering from the SRM Institute of Science and Technology, Kattankulathur in 2021,
 where he also actively participated in the Energy and Fuel User's Association of India chapter as a vice president and technical head. In 2023, he received his M.S. degree in Sustainable Electric Power Engineering and Electromibility from the Chalmers tekniska högskola (Chalmers University of Technology) from Sweden. His master's research focused on the second life study of on-board charging power supply from vehicles at Volvo Group Trucks Techology. He is an incoming doctoral candidate at the Pennsylvania State University (Penn State University), his studies focusses on the research and development of smart grid for smart communities using Modelica language, including traditional power systems and innovative idea's to include renewable energy.
+	</p>
 
 
 ### Research Interests
