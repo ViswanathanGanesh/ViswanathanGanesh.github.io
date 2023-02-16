@@ -5,7 +5,7 @@ categories:
  - home
 ---
 <img src="images/IMG_20230209_134100 copy.jpg" alt="profile"
-	title="Viswanathan Ganesh" width="200" style="float: right;" />
+	title="Viswanathan Ganesh" width="400" style="float: right;" />
 
 ## Viswanathan Ganesh <br /> 
 ## M.Sc Sustainable Electric Power Engineering and Electromobility <br />
