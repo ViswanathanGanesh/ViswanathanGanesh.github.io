@@ -16,7 +16,7 @@ Research Assistant, Sustainable Buildings and Societies Laboratory <br />
 
 **Contact:** viswanathanganesh1999@gmail.com
 
-[**Curriculum Vitae**](CHARM_RESUME_VISWANATHAN-7.pdf) 
+[**Curriculum Vitae**](CHARM_RESUME_VISWANATHAN-7.pdf) <br/>
 [**Personal Website**](https://sites.google.com/view/viswanathanganesh)
 
 
