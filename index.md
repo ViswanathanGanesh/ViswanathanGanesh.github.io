@@ -14,7 +14,7 @@ Research Assistant, Sustainable Buildings and Societies Laboratory <br />
  <br />
  <br />
 
-**Contact:** viswanathanganesh1999@gmail.com
+**Contact:** vmg5298@psu.edu
 
 [**Curriculum Vitae**](CHARM_RESUME_VISWANATHAN-7.pdf) <br/>
 [**Personal Website**](https://sites.google.com/view/viswanathanganesh)
